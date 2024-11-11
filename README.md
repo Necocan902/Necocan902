@@ -10,3 +10,5 @@
 Necocan902/Necocan902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+let it rain in the background and let it be white in the rain
+then ask for your name, surname and e-mail address
